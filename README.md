@@ -1,7 +1,7 @@
 Olá! Me chamo Alison! ✨
 _________________________________________________________
 
-📚 - Estudante de Programação
+📚 - Cursando Engenharia de software
 
 _________________________________________________________
 https://www.instagram.com/alison.https2/
