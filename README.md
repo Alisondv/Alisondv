@@ -18,9 +18,8 @@ Trabalho diariamente com o ERP **TOTVS RM**, onde analiso situações reportadas
 ![Git](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 
 #### Projetos em destaque
-- **Fênix Construtora** — site institucional para cliente real (HTML, CSS, JS)
-- **Todo List API** — API REST em Java (Spring Boot)
-- **MediaTracker** — app Android em Kotlin
-- **Validador de Notas Fiscais** — projeto em Python que lê o XML da NFe e confere impostos e retenções (em desenvolvimento)
+- **Fênix Construtora** - site institucional para cliente real (HTML, CSS, JS)
+- **Todo List API** - API REST em Java (Spring Boot)
+- **MediaTracker** - app Android em Kotlin
 
 📫 Contato: [LinkedIn](https://www.linkedin.com/in/alison-xavier-ego/)
